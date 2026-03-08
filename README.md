@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=donghwan8146&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Donghwan814&show_icons=true&theme=tokyonight" />
 
 </p>
 
@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghwan814&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Donghwan814&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -80,7 +80,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leesj0706&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Donghwan814&theme=tokyonight" />
 
 </p>
 
@@ -90,7 +90,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donghwan814&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Donghwan814&theme=tokyo-night" />
 
 </p>
 
@@ -100,9 +100,9 @@
 
 <p align="center">
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=soccerkdh12)](https://solved.ac/seoul9627)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=soccerkdh12)](https://solved.ac/profile/soccerkdh12)
 
-<img src="https://mazandi.herokuapp.com/api?handle=&theme=warm" />
+<img src="https://mazandi.herokuapp.com/api?handle=soccerkdh12&theme=warm" />
 
 </p>
 
@@ -112,17 +112,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=leesj0706&label=Profile%20views&color=blue&style=for-the-badge" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=Donghwan814&label=Profile%20views&color=blue&style=for-the-badge" />
 
 </p>
 
