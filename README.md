@@ -1,4 +1,4 @@
-<img width="1500" height="500" src="https://github.com/user-attachments/assets/69bf4f72-80c3-44e0-a7f2-e2733e6413da" />
+<img width="2000" height="300" src="https://github.com/user-attachments/assets/69bf4f72-80c3-44e0-a7f2-e2733e6413da" />
 
 <h1 align="center">🏋️ Donghwan's GitHub 🏋️</h1>
 <h3 align="center">Backend Developer | Keep Coding & Keep Growing</h3>
