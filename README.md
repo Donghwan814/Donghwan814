@@ -60,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Donghwan814&show_icons=true&theme=tokyonight" />
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Donghwan814&theme=github_dark&count_private=true&show_icons=true&title_color=673AB7&icon_color=673AB7)](https://github.com/dohun0310?tab=repositories)
 
 </p>
 
