@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/1%ED%98%B8%EC%84%A0%ED%86%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-FFB000?style=for-the-badgehttps://img.shields.io/badge/🏆_1호선톤-최우수상-FFB000?style=for-the-badgelogo=trophyhttps://img.shields.io/badge/🏆_1호선톤-최우수상-FFB000?style=for-the-badgelogoColor=white" />
+  <img src="https://img.shields.io/badge/1%ED%98%B8%EC%84%A0%ED%86%A4-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-FFB000?style=for-the-badge&logo=trophy&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Developer-7C3AED?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/%EC%8B%A0%ED%95%9C%EB%8C%80_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9C%B5%ED%95%A9-2027.02_%EC%A1%B8%EC%97%85%EC%98%88%EC%A0%95-555555?style=for-the-badge" />
 </p>
