@@ -1,152 +1,59 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:7C3AED,100:764ba2&height=260&section=header&text=Welcome%20to%20Donghwan%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20%26%20QA%20%7C%20Build%20it.%20Break%20it.%20Verify%20it.&descAlignY=60&descSize=18" 
-  />
-</p>
-
-<h1 align="center">🏋️ Donghwan's GitHub 🏋️</h1>
-
-<h3 align="center">
-  Backend Developer · QA Engineer | Java · Spring Boot · SQL · Testing
-</h3>
+<h2 align="center">김동환 · Backend Developer</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+and+Testing+Server+Applications;Finding+Defects+Under+Concurrency+and+Env+Gaps;Verifying+Data+with+SQL+Before+and+After;Writing+Unit+Tests+for+What+I+Build;Reproduce.+Isolate.+Fix.+Verify." 
-      alt="Typing SVG" 
-    />
-  </a>
+  <b>끊기고 몰려도 데이터가 맞는 서버를 만듭니다.</b><br>
+  Java 21 · Spring Boot · JPA · MySQL / PostgreSQL · Docker · AWS
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-7C3AED?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/QA-Engineer-E34F26?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-SQL%20Verification-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://donghwan814.github.io/"><img src="https://img.shields.io/badge/Portfolio-donghwan814.github.io-3D5AFE?style=flat-square" /></a>
+  <a href="mailto:kdh969512@gmail.com"><img src="https://img.shields.io/badge/Email-kdh969512@gmail.com-555?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/신한대_소프트웨어융합학과-2027.02_졸업예정-555?style=flat-square" />
 </p>
 
 ---
 
-## 👋 About Me
+### 🏆 수상
 
-```java
-public class Donghwan {
-    private String[] role = {"Backend Developer", "QA Engineer"};
-    private String mainStack = "Java, Spring Boot, MySQL, PostgreSQL";
-    private String interest = "REST API, Database, Testing, Defect Analysis";
-    private String habit = "Reproduce -> Isolate -> Fix -> Verify";
-    private String goal = "Build it right. Check it twice.";
-}
-```
+| 시기 | 내용 | 내 역할 |
+|---|---|---|
+| 2026.11 | **2026 멋쟁이사자처럼 1호선톤 최우수상** (8개 대학 연합) | FITMATE 실시간 WebSocket 서버 |
+| 2026.08 | 멋사 중앙 해커톤 SJF 트랙 **82팀 중 상위 15팀** | MTM 백엔드 |
+| 2025.10 | SW중심대학 SUMTECH 해커톤 **장려상** | Re:Form 팀장 · 백엔드 |
 
 ---
 
-## 🔍 What I Look For
+### 🔧 대표 프로젝트
 
-| 관점 | 직접 겪은 사례 |
-|---|---|
-| **동시성** | 혼자 테스트할 땐 멀쩡하던 기능이 동시 접속에서 모든 API를 500으로 만든 커넥션 풀 고갈 |
-| **환경 차이** | 개발 환경에선 정상, 운영 서버(UTC)에서만 9시간 어긋난 출석 시각 |
-| **외부 의존** | 외부 분석 서버가 느리거나 꺼져도 나머지 기능이 동작하도록 타임아웃·예외 분리 |
-| **데이터 검증** | 화면이 아닌 DB를 직접 조회하고, 고치기 전과 후를 같은 쿼리로 비교 |
+| 프로젝트 | 무엇을 했나 | 근거 |
+|---|---|---|
+| **[FITMATE](https://github.com/20thTeam/fitmate-be)** <br> 친구와 같은 방에서 하는 AI 홈트 · 최우수상 | 운동방 WebSocket 중계 계층 전담. 끊김 30초 자리 유지·재접속 복원, 메시지 크기·빈도 상한, 사칭 차단 | 15Hz 동작 정보 **20명 동시 p95 29ms · 손실 0%** 실측 · 테스트 **245건** |
+| **[비콘 출결 플랫폼](https://github.com/Dev-MAMOKEY/Beacon-Backend)** <br> 산학연계 · 실운영 | 백엔드 전담. BLE 근접 + 인증번호 이중 조건, 감지 임계값 설정화, (회원, 세션) 유니크로 중복 출석 차단 | 운영 중 **전 API 500 장애**(OSIV + SSE로 커넥션 풀 고갈) 원인 규명·재발 감지 |
+| **[한국어 발음 교정](https://github.com/Shinhan-KoreanLanguage/backend)** <br> 졸업작품 | 서버 단독. JWT·소셜 로그인, 외부 AI 서버 격리(연결 5s / 응답 60s), N+1 일괄 조회 | 커밋 **243건 중 208건** · API 36개 · 에러코드 46종 |
+| **[진상 멈춰](https://github.com/jinsang-stop/jinsang-stop-backend)** <br> 로컬 LLM 민원 응대 훈련 | 1인 백엔드. 음성·LLM 서비스 오케스트레이션, 진행 세션 유니크 제약, Flyway, LLM 출력 검사·재시도 | 테스트 **124건** · ADR 기반 설계 |
+| **[MTM](https://github.com/Dev-MAMOKEY/MTM-Backend)** <br> AI 가상 착용 | (사진, 제품) 조합 결과 재사용, 생성 공급자 인터페이스로 OpenAI→Gemini 교체 | 응답 **9.595초 → 0.033초** |
 
----
-
-## ✨ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### 🧪 Testing & Verification
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLD-Certified-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+> 수치는 각 저장소 PR 본문에 남긴 측정·테스트 기록에서 옮겼습니다.
 
 ---
 
-## 🛠 Tools
+### 🧯 직접 해결한 장애
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+- **커넥션 풀 고갈** — SSE 배포 직후 전 API 500. OSIV가 최대 30분짜리 SSE 요청의 커넥션을 붙잡아 풀 10개가 고갈. `open-in-view` 비활성화 + 누수 감지 설정, 배포 이미지 누락을 막으려 컨테이너 환경변수에 이중 명시.
+- **운영에서만 9시간 어긋난 시각** — 컨테이너 UTC 기동이 원인. Dockerfile·애플리케이션·환경변수 3중 고정, 기존 데이터는 마이그레이션으로 정정.
+- **S3 고아 파일** — `ON DELETE CASCADE`로 행이 지워지면 저장소 키를 잃음. 키를 먼저 모으고 자식부터 삭제, 파일 삭제는 커밋 이후로 이동.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Stack
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Donghwan814&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=7C3AED&icon_color=7C3AED" 
-    height="170" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghwan814&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" 
-    height="170" 
-  />
-</p>
+`Java 21` `Spring Boot` `Spring Security` `Spring Data JPA` `Spring WebSocket` `JWT · OAuth2`
+`MySQL` `PostgreSQL` `H2` `Flyway`
+`Docker` `Docker Compose` `AWS EC2 · RDS · S3` `Nginx` `GitHub Actions`
+`JUnit 5` `Swagger(springdoc)` `Postman` · 자격: `SQLD` `TOPCIT Level 3`
 
----
+### 📐 일하는 방식
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Donghwan814&theme=tokyonight" 
-    width="850" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Donghwan814&theme=tokyo-night&hide_border=true&radius=12&area=true" 
-    width="850" 
-  />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:kdh969512@gmail.com">
-    <img src="https://img.shields.io/badge/kdh969512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Donghwan814&label=Profile%20views&color=7C3AED&style=for-the-badge" />
-</p>
-
-<h3 align="center">🔥 Build it. Break it. Verify it. Keep Growing. 🔥</h3>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:7C3AED,100:667eea&height=130&section=footer" 
-  />
-</p>
+- 이슈 하나 = 브랜치 하나 = PR 하나. PR마다 변경 사항 · 범위 · 테스트 결과 · Postman 예시를 남깁니다.
+- 구현 전에 용어집(`CONTEXT.md`)과 ADR로 결정 근거를 먼저 적습니다.
+- 숫자는 직접 측정한 값만, 측정 조건과 함께 씁니다.
