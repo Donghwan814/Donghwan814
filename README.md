@@ -33,8 +33,6 @@
 | **[진상 멈춰](https://github.com/jinsang-stop/jinsang-stop-backend)** <br> 로컬 LLM 민원 응대 훈련 | 1인 백엔드. 음성·LLM 서비스 오케스트레이션, 진행 세션 유니크 제약, Flyway, LLM 출력 검사·재시도 | 테스트 **124건** · ADR 기반 설계 |
 | **[MTM](https://github.com/Dev-MAMOKEY/MTM-Backend)** <br> AI 가상 착용 | (사진, 제품) 조합 결과 재사용, 생성 공급자 인터페이스로 OpenAI→Gemini 교체 | 응답 **9.595초 → 0.033초** |
 
-> 수치는 각 저장소 PR 본문에 남긴 측정·테스트 기록에서 옮겼습니다.
-
 ---
 
 ### 🧯 직접 해결한 장애
