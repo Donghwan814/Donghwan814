@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=2026+LIKELION+Line-1+Hackathon+Grand+Prize;Real-time+WebSocket+Relay+%7C+p95+29ms+%40+20+users;Root-caused+a+Connection+Pool+Outage+in+Production;Every+Rule+Pinned+Down+by+Tests" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi,+I'm+Donghwan+%F0%9F%91%8B;Backend+Developer+%7C+Java+%C2%B7+Spring+Boot;Servers+that+stay+consistent+under+load;Clean+APIs.+Reliable+data." 
       alt="Typing SVG" 
     />
   </a>
